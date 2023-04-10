@@ -1,0 +1,4 @@
+﻿  OOP3.cpp
+C:\Users\Анастасия\source\repos\OOP3\OOP3\OOP3.cpp(131,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+C:\Users\Анастасия\source\repos\OOP3\OOP3\OOP3.cpp(127): warning C4715: mycontainer<int>::getAt: значение возвращается не при всех путях выполнения
+  OOP3.vcxproj -> C:\Users\Анастасия\source\repos\OOP3\Debug\OOP3.exe
