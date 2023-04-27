@@ -1,0 +1,10 @@
+C:\Users\Анастасия\source\repos\CCircle\CCircle\bin\Debug\CCircle.exe.config
+C:\Users\Анастасия\source\repos\CCircle\CCircle\bin\Debug\CCircle.exe
+C:\Users\Анастасия\source\repos\CCircle\CCircle\bin\Debug\CCircle.pdb
+C:\Users\Анастасия\source\repos\CCircle\CCircle\obj\Debug\CCircle.csproj.AssemblyReference.cache
+C:\Users\Анастасия\source\repos\CCircle\CCircle\obj\Debug\CCircle.Properties.Resources.resources
+C:\Users\Анастасия\source\repos\CCircle\CCircle\obj\Debug\CCircle.csproj.GenerateResource.cache
+C:\Users\Анастасия\source\repos\CCircle\CCircle\obj\Debug\CCircle.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\CCircle\CCircle\obj\Debug\CCircle.exe
+C:\Users\Анастасия\source\repos\CCircle\CCircle\obj\Debug\CCircle.pdb
+C:\Users\Анастасия\source\repos\CCircle\CCircle\obj\Debug\CCircle.FormCircles.resources
