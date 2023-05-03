@@ -1,0 +1,10 @@
+C:\Users\Анастасия\source\repos\WindowsFormsApp42\WindowsFormsApp42\bin\Debug\WindowsFormsApp42.exe.config
+C:\Users\Анастасия\source\repos\WindowsFormsApp42\WindowsFormsApp42\bin\Debug\WindowsFormsApp42.exe
+C:\Users\Анастасия\source\repos\WindowsFormsApp42\WindowsFormsApp42\bin\Debug\WindowsFormsApp42.pdb
+C:\Users\Анастасия\source\repos\WindowsFormsApp42\WindowsFormsApp42\obj\Debug\WindowsFormsApp42.csproj.AssemblyReference.cache
+C:\Users\Анастасия\source\repos\WindowsFormsApp42\WindowsFormsApp42\obj\Debug\WindowsFormsApp42.Form1.resources
+C:\Users\Анастасия\source\repos\WindowsFormsApp42\WindowsFormsApp42\obj\Debug\WindowsFormsApp42.Properties.Resources.resources
+C:\Users\Анастасия\source\repos\WindowsFormsApp42\WindowsFormsApp42\obj\Debug\WindowsFormsApp42.csproj.GenerateResource.cache
+C:\Users\Анастасия\source\repos\WindowsFormsApp42\WindowsFormsApp42\obj\Debug\WindowsFormsApp42.csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\source\repos\WindowsFormsApp42\WindowsFormsApp42\obj\Debug\WindowsFormsApp42.exe
+C:\Users\Анастасия\source\repos\WindowsFormsApp42\WindowsFormsApp42\obj\Debug\WindowsFormsApp42.pdb
