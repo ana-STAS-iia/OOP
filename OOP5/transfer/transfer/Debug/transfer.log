@@ -1,0 +1,4 @@
+﻿  transfer.cpp
+C:\Users\Анастасия\source\repos\transfer\transfer\transfer.cpp(53): warning C4172: возвращение адреса локальной или временной переменной : tmp
+C:\Users\Анастасия\source\repos\transfer\transfer\transfer.cpp(59): warning C4172: возвращение адреса локальной или временной переменной : tmp
+  transfer.vcxproj -> C:\Users\Анастасия\source\repos\transfer\Debug\transfer.exe
